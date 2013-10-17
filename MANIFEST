@@ -6,4 +6,3 @@ default_store.xs
 test.pl
 typemap
 README
-META.yml                                 Module meta-data (added by MakeMaker)
